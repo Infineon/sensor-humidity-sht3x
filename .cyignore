@@ -1,0 +1,6 @@
+docs
+$(SEARCH_embedded-i2c-sht3x)/example-usage-single-shot
+$(SEARCH_embedded-i2c-sht3x)/example-usage
+$(SEARCH_embedded-i2c-sht3x)/sample-implementations
+$(SEARCH_embedded-i2c-sht3x)/tests
+$(SEARCH_embedded-i2c-sht3x)/sensirion_i2c_hal.c
